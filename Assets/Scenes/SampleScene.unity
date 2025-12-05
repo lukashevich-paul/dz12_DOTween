@@ -153,6 +153,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb7efdee507b6224995816a24c1337c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 4
+  Loops: -1
+  LoopType: 0
   _string: "\u0442\u0435\u043A\u0441\u0442, \u043A\u043E\u0442\u043E\u0440\u044B\u0439
     \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E
     \u043C\u0435\u043D\u044F\u0435\u0442\u0441\u044F \u0440\u0430\u0437\u043D\u044B\u043C\u0438
@@ -162,8 +165,6 @@ MonoBehaviour:
     \u043F\u0435\u0440\u0435\u0431\u043E\u0440\u043E\u043C)"
   _string3: "\u0417\u0430\u0434\u0430\u043D\u0438\u0435. \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430
     \u0441 DOTween"
-  _duration: 4
-  _loops: -1
 --- !u!114 &310637318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -437,10 +438,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c214253acdafb44baec5b8b61111a60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _scale: {x: 1.2, y: 2, z: 2}
-  _duration: 3
-  _loops: -1
-  _loopType: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -746,10 +747,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed461989afb5de44499360f425aee020, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _newColor: {r: 0, g: 0, b: 0, a: 0}
-  _duration: 2
-  _loops: -1
-  _loopType: 1
 --- !u!1 &1418676262
 GameObject:
   m_ObjectHideFlags: 0
@@ -870,10 +871,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c214253acdafb44baec5b8b61111a60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _scale: {x: 1.5, y: 2, z: 1.5}
-  _duration: 3
-  _loops: -1
-  _loopType: 1
 --- !u!114 &1418676268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -886,10 +887,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a83f030b5bede27458338c2751d50ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _rotation: {x: 360, y: 360, z: 0}
-  _duration: 3
-  _loops: -1
-  _loopType: 0
 --- !u!114 &1418676269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -902,10 +903,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4943fbe7ec539d84cae350dfce093306, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _position: {x: -2, y: 1, z: 3}
-  _duration: 2
-  _loops: -1
-  _loopType: 1
 --- !u!1 &1656472640
 GameObject:
   m_ObjectHideFlags: 0
@@ -1024,10 +1025,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a83f030b5bede27458338c2751d50ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _rotation: {x: 0, y: 360, z: 0}
-  _duration: 3
-  _loops: -1
-  _loopType: 2
 --- !u!1 &2056047882
 GameObject:
   m_ObjectHideFlags: 0
@@ -1111,10 +1112,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4943fbe7ec539d84cae350dfce093306, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Duration: 3
+  Loops: -1
+  LoopType: 1
   _position: {x: 4, y: 0.5, z: 4}
-  _duration: 3
-  _loops: -1
-  _loopType: 1
 --- !u!135 &2118361475
 SphereCollider:
   m_ObjectHideFlags: 0
